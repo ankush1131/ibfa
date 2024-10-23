@@ -37,7 +37,7 @@ const Footer = () => {
                                     <Phone className='w-5 h-5' />
                                 </div>
                                 <span className=''>
-                                    +91 9970114143, 1800 890 4626
+                                    +91 9970114143, 18008904626
                                 </span>
                             </Link>
                           
