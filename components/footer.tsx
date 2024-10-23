@@ -37,17 +37,10 @@ const Footer = () => {
                                     <Phone className='w-5 h-5' />
                                 </div>
                                 <span className=''>
-                                    +91 9970114143
+                                    +91 9970114143, 1800 890 4626
                                 </span>
                             </Link>
-                            <Link href={'https://wa.me/+919970114143'} className='flex items-center justify-start w-full gap-2 hover:text-themeText text-themeBlue'>
-                                <div className=''>
-                                    <FaWhatsapp className='w-5 h-5 text-green-600' />
-                                </div>
-                                <span className=''>
-                                    +91 9970114143
-                                </span>
-                            </Link>
+                          
                             <Link href={'mailto:info@ibfsaedu.com'} className='flex items-center justify-start w-full gap-2 hover:text-themeText text-themeBlue'>
                                 <div className=''>
                                     <Mail className='w-5 h-5 text-themeColor' />
